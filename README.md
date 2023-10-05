@@ -7,7 +7,8 @@ Tested with arm64 and amd64 architectures
 
 Add this script to the folder containing your Packer JSON and then add this to your Packer JSON file:
 
-`
+
+```
 "provisioners": [
 ...
     {
@@ -17,4 +18,4 @@ Add this script to the folder containing your Packer JSON and then add this to y
     }
 ...
 ]
-`
+```
